@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
