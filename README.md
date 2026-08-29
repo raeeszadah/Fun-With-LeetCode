@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0027-remove-element) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0414-third-maximum-number](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0724-find-pivot-index) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
 |  |
