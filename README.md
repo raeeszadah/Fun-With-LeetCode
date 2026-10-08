@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -85,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
