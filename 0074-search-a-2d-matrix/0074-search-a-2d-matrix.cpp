@@ -10,8 +10,7 @@ while (start <= end) {
 
     int mid = start + (end - start) / 2;
 
-    int rowIndex = mid / colSize;
-    int colIndex = mid % colSize;
+    int rowIndex = mid / colSize, colIndex = mid % colSize;
 
     if (matrix[rowIndex][colIndex] == target) {
         return true;
