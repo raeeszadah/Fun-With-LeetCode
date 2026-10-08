@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0414-third-maximum-number](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
@@ -79,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
