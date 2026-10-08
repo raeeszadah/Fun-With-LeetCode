@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0414-third-maximum-number](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0414-third-maximum-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -81,5 +83,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/raeeszadah/Fun-With-LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
